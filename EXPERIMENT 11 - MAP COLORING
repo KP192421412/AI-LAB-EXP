@@ -1,4 +1,4 @@
-#192424420
+#192421412
 
 def map_coloring(graph, colors):
     color_map = {}
